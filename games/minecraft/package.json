@@ -2,7 +2,7 @@
   "name": "bjerk-minecraft",
   "type": "module",
   "volta": {
-    "node": "16.16.0",
+    "node": "16.20.2",
     "yarn": "1.22.17"
   },
   "engines": {
