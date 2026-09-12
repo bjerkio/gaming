@@ -25,7 +25,7 @@
     "yaml": "^2.1.1"
   },
   "devDependencies": {
-    "@bjerk/eslint-config": "^2.0.1",
+    "@bjerk/eslint-config": "^6.0.0",
     "@cobraz/prettier": "^2.0.0",
     "@tsconfig/node16-strictest-esm": "^1.0.3",
     "@types/dedent": "^0.7.0",
