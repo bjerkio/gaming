@@ -33,7 +33,7 @@
     "@types/node": "16",
     "dotenv-load": "^2.0.1",
     "jest": "^28.1.3",
-    "prettier": "^2.5.1",
+    "prettier": "^3.0.0",
     "ts-jest": "^28.0.6",
     "typescript": "^4.7.4"
   },
